@@ -2,19 +2,50 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
+labels: feature
+assignees: DerMikiger
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 💡 Feature Description
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Describe your idea**
+What do you want to see added or changed?
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Why is this useful?**
+Explain how this would improve gameplay or user experience.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+---
+
+## 🎮 Gameplay Context
+
+- In which phases should this feature be relevant? (e.g. early game, Phase 5+, late game)
+- Is this more for:
+  - [ ] Survival balance
+  - [ ] Building/Decoration
+  - [ ] Challenge/Hardcore
+  - [ ] Quality of Life
+  - [ ] Other: ...
+
+---
+
+## 🔧 Implementation Thoughts (Optional)
+
+If you have ideas **how** it could work technically (not required, but helpful):
+
+- Example commands (if any)
+- GUI ideas (for shop, HUD, etc.)
+- Config options (what should be configurable?)
+
+---
+
+## 📸 Visual / Inspiration (Optional)
+
+- Screenshots, mockups or links to similar features from other mods/servers (if any).
+- Anything that helps to understand your idea better.
+
+---
+
+## ✅ Additional Notes
+
+Anything else you want to mention.

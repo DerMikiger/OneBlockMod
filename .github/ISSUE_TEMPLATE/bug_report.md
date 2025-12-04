@@ -2,37 +2,59 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: DerMikiger
 
 ---
 
+## 🐛 Bug Description
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+What did you expect to happen?
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Actual behavior**
+What happened instead?
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+---
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## 🧪 How to Reproduce
 
-**Additional context**
-Add any other context about the problem here.
+Steps to reproduce the behavior:
+
+1. ...
+2. ...
+3. ...
+4. ...
+
+If possible, include screenshots or a short video.
+
+---
+
+## 🧩 Environment
+
+- Minecraft version: (e.g. 1.21.4)
+- Mod loader: (Fabric / Forge)
+- Mod loader version: (e.g. Fabric Loader 0.18.1)
+- Fabric API version (if Fabric): (e.g. 0.113.0+1.21.4)
+- OneBlock Challenge version: (e.g. v0.2.0-Beta)
+- Singleplayer or Server? (If server: what host / OS?)
+
+---
+
+## 📄 Logs / Crash Report
+
+If there is a crash or error, please attach:
+
+- `latest.log`
+- Crash report from `crash-reports/` (if available)
+
+You can upload them to a paste site (e.g. hastebin, pastebin) and link them here.
+
+---
+
+## 💬 Additional Information
+
+Any other information that might help (resource packs, other mods, special setup, etc.).
